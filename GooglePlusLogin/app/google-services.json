@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226484759869",
+    "firebase_url": "https://pluslogin-14241.firebaseio.com",
+    "project_id": "pluslogin-14241",
+    "storage_bucket": "pluslogin-14241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226484759869:android:6f82c8202f864afc",
+        "android_client_info": {
+          "package_name": "com.example.daffolap_172.googlepluslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226484759869-13tt9frnr4t6u26kc5b7p7olgj0huvjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daffolap_172.googlepluslogin",
+            "certificate_hash": "a5291cd93d1badebb948acd84b9ac7cd4ea36e91"
+          }
+        },
+        {
+          "client_id": "226484759869-rbpt918s3s6sranepvb690t5lud0973q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRdh4weqi_2iwzRZVQi1iX1GwP86jRaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226484759869-rbpt918s3s6sranepvb690t5lud0973q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

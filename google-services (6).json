@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367348380462",
+    "firebase_url": "https://whatsappvishal-f0d08.firebaseio.com",
+    "project_id": "whatsappvishal-f0d08",
+    "storage_bucket": "whatsappvishal-f0d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367348380462:android:c69584b44c483ff4",
+        "android_client_info": {
+          "package_name": "com.brijesh.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367348380462-7fk1g4hldqrmmuj4kg7pkjg8r051eqde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brijesh.whatsapp",
+            "certificate_hash": "a5291cd93d1badebb948acd84b9ac7cd4ea36e91"
+          }
+        },
+        {
+          "client_id": "367348380462-lmevklp8efpji0mfft18pibvuoo72f4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GHtgMoxrPhl1VdKoHBkBjnlRwyYjVaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367348380462-lmevklp8efpji0mfft18pibvuoo72f4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

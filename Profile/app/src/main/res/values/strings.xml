@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="action_settings">Setting</string>
+    <string name="mobile">Mobile</string>
+    <string name="mail_id">Mail:</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="upload">Upload</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174428564450",
+    "firebase_url": "https://ecommercedemo-ad8bb.firebaseio.com",
+    "project_id": "ecommercedemo-ad8bb",
+    "storage_bucket": "ecommercedemo-ad8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174428564450:android:37b8a71d373d6279",
+        "android_client_info": {
+          "package_name": "com.example.daffolap_172.ecommercedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174428564450-ju573c1psmqv62isq6s0ucpl5eun11b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daffolap_172.ecommercedemo",
+            "certificate_hash": "a5291cd93d1badebb948acd84b9ac7cd4ea36e91"
+          }
+        },
+        {
+          "client_id": "174428564450-cae107dleqdstu2e5gkcepbge32h05ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn01qIsIf1bBQurv6j2MUmd_mQYh3nHkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174428564450-cae107dleqdstu2e5gkcepbge32h05ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

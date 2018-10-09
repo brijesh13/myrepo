@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small_5">5dp</dimen>
+    <dimen name="padding_normal_8">8dp</dimen>
+    <dimen name="padding_medium_10">10dp</dimen>
+    <dimen name="padding_large_15">15dp</dimen>
+    <dimen name="padding_extra_large_20">20dp</dimen>
+    <dimen name="padding_too_large_30">30dp</dimen>
+    <dimen name="text_small_5">5sp</dimen>
+    <dimen name="text_normal_8">8sp</dimen>
+    <dimen name="text_medium_10">10sp</dimen>
+    <dimen name="text_large_12">12sp</dimen>
+    <dimen name="text_extra_large_15">15sp</dimen>
+</resources>

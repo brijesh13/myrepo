@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "414601367085",
+    "firebase_url": "https://brijeshwhatsapp-6cf8b.firebaseio.com",
+    "project_id": "brijeshwhatsapp-6cf8b",
+    "storage_bucket": "brijeshwhatsapp-6cf8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414601367085:android:536f713674b0a64f",
+        "android_client_info": {
+          "package_name": "com.example.daffolap_172.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414601367085-tvbpgpsp64rahusgri6ikl31e0lg96hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2feyqZHzqtkyF0i0KqNWvGWWR1dlS3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

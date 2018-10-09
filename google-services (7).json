@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "235874485774",
+    "firebase_url": "https://whatsappdemo-3d6d8.firebaseio.com",
+    "project_id": "whatsappdemo-3d6d8",
+    "storage_bucket": "whatsappdemo-3d6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235874485774:android:536f713674b0a64f",
+        "android_client_info": {
+          "package_name": "com.example.daffolap_172.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235874485774-oov1qgtnigu4gk1b57m68msp6e8i4hv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowYbyLBHlh-RrYxBy5Ggv5d4FoijEsEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

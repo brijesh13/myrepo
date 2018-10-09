@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/padding_small_5"
+    android:background="@color/white">
+
+    <EditText
+        android:id="@+id/seach_view"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/padding_too_large_30"
+        android:layout_marginRight="@dimen/padding_too_large_30"
+        android:layout_marginTop="@dimen/padding_extra_large_20"
+        android:hint="Search"
+        android:paddingLeft="@dimen/padding_small_5"
+        android:paddingTop="@dimen/padding_small_5"
+        tools:ignore="TextFields" />
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/seach_view"
+        android:layout_toStartOf="@+id/okButton"
+        android:background="@drawable/rounded_green_login"
+        android:hint="search" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/seach_view"
+        android:layout_marginTop="76dp"
+        android:text="Filter"
+        android:textSize="@dimen/padding_extra_large_20"/>
+
+    <Button
+        android:id="@+id/okButton"
+        android:layout_width="48dp"
+        android:layout_height="31dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/delete" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/seach_view"
+        android:layout_marginTop="129dp"
+        android:text="up to 500"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/checkBox"
+        android:layout_marginEnd="100dp"
+        android:text="500-1000"/>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/seach_view"
+        android:layout_marginTop="190dp"
+        android:text="1000-1500"/>
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/checkBox2"
+        android:layout_alignTop="@+id/checkBox3"
+        android:text="above 1500"/>
+</RelativeLayout>

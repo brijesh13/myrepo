@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "488151842406",
+    "firebase_url": "https://fir-demo-project-91635.firebaseio.com",
+    "project_id": "fir-demo-project-91635",
+    "storage_bucket": "fir-demo-project-91635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488151842406:android:015ce24ac9d368b6",
+        "android_client_info": {
+          "package_name": "com.example.daffolap_172.splitscreendemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488151842406-qqi768ukeb0e0bsri6hq7b9vtddruggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR2M0O966IMuNrXh0keboJ6dMD8GflEsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
